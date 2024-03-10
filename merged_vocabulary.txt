@@ -1,0 +1,620 @@
+juni	June
+farve	color
+hele	all/ the whole of/ entire
+blå	blue
+sol	sun/ sunny
+himmel	sky
+allerede	already
+paraply	umbrella
+regner	rains/ rain/ is raining
+våd	wet
+tirsdag	Tuesday
+vejr	weather
+spændende	exciting
+spillet	played/ the game
+nemt	easily/ easy
+fjernsyn	television
+computer	computer
+strand	beach
+havet	the sea/ the sea level
+sidde	sit
+ridde	ride
+slappe af	relax
+cafe	cafe
+sand	sand/ true
+skrive	to write
+bogen	the book
+læse	to read
+spille	to play
+håndbold	handball
+lære	learn/ teach
+løbe	to run
+cykle	to bike
+hader	hate/ hates
+at	to/ that/ as to
+danse	to dance
+være	to be
+svømme	swim
+fri	free/ a day off/ leave
+gluten	gluten
+drikkepenge	tips
+vegetar	vegetarian
+penge	money
+alkohol	alcohol
+økologisk	organic/ ecological/ ecologic
+tjener	waiter
+bede om	ask for/ ask (polite)/ have (polite)
+meget	much
+må	can/ may/ must
+peber	pepper
+salt	salt
+betale	pay/ paying
+knive	knives
+mexicansk	Mexican
+gafler	forks
+spinat	spinach
+kok	cook/ chef
+suppe	soup
+ske	spoon/ happen
+livret	favorite dish
+drikke	to drink
+spaghetti	spaghetti
+lide	suffer/ prefer
+restaurant	restaurant/ restaurants
+mæt	full
+menu	menu
+kollega	colleague
+opgave	task/ assignment
+svær	difficult/ hard/ heavy
+nem	easy
+løse	solve
+lytte	listen
+løn	salary
+arbejde	job
+ansat	employed
+arbejdet	the work/ been working/ the job
+får	get/ will get/ do get
+virksomhed	company
+store	great/ big/ large
+kontor	office
+madpakke	box lunch
+pause	break/ a break
+papir	paper
+lang	long
+skrivebord	desk
+studerende	student
+arbejder	working/ am working/ are working
+som	like/ as a/ that
+fabrik	factory
+også	also
+frisør	hairdresser
+advokat	lawyer
+ved	knows/ know/ near
+ligger	is/ are lying/ fills
+inde	in/ inside
+huse	houses
+hospital	hospital
+kirke	church
+havn	harbour/ port/ harbor
+biblioteket	the library
+biograf	cinema
+leder	manager/ is leading/ is searching
+nær	near/ close to/ close
+vej	road/ way
+universitet	college/ university
+ude	out/ outside
+steder	places
+stoppested	stop
+tæt på	close to/ close
+langt fra	far from/ from far away
+park	park
+bibliotek	library
+højre	right (direction)/ right
+venstre	left
+gå	to walk
+finder	will find/ find/ do find
+station	station
+sted	place
+fødselsdagen	the birthday
+fødselsdag	birthday
+tredje	third
+december	December
+tillykke	congratulations
+i år	this year
+seks	six
+ni	nine
+kvarter	quarter of an hour
+første	first/ first of
+marts	March
+minut	minute
+otte	eight
+kvart	a quarter/ quarter/ quarter of
+time	hour
+over	past/ over/ about
+halv	half
+klokken	at/ o'clock/ it ... ... o'clock
+mange	many
+tolv	twelve
+februar	February
+måned	month
+bliver	become/ is/ are getting
+tredive	thirty
+år	year
+april	April
+synes	think (opinion)/ do think/ am/is/are thinking (opinion)
+dette	this
+januar	January
+forældre	parents
+dine	your/ yours
+børn	children/ kids
+mine	my/ mine
+glade	happy/ fond
+læreren	the teacher
+bedre	better
+lægen	the doctor (medical)
+syg	sick
+så	did look/ saw/ did watch
+høre	hear/ listen
+tydeligt	clearly
+forstår	comprehend/ do understand/ does understand
+os	us
+langsomt	slowly
+jer	you (plural)/ you/ yourselves
+snakke	talk/ speak
+tretten	thirteen
+enogtyve	twenty-one
+nummer	number
+femogtredive	thirty-five
+telefonnummer	phone number
+fireogtyve	24/ twenty-four
+telefon	telephone/ phone
+syv	seven
+ringer	are calling/ is ringing/ will call
+fornavn	first name
+navn	name
+efternavn	last name
+giver	give/ will give/ do give
+chokolade	chocolate
+gravid	pregnant
+blomst	flower
+ring	ring
+gang	time
+date	date (meet up)
+hår	hair
+ses	be seen/ will see each other again/ will see each other
+mødes	meet up/ are meeting/ am/are/is to meet
+mit	my/ mine
+dater	are dating/ am dating/ is dating
+dit	your/ yours
+både	both
+flot	handsome/ nice/ pretty
+stærk	strong
+venlig	friendly
+ud	out/ to go out
+ham	him
+forelsket i	in love with
+hende	her
+Frankrig	France
+forelsket	in love
+smuk	beautiful/ pretty
+tallerken	plate
+stol	chair
+bare	only/ simply/ just
+fin	nice/ fine
+lukker	is closing/ are closing/ will close
+om lidt	in a bit
+pris	price
+åbner	open/ do open/ does open
+pakke	package/ pack/ wrap
+dør	will die/ door/ dying
+hente	get/ fetch/ pick up
+man	one/ you
+bruge	use/ spend/ using
+skal	have to/ do/ have to get
+passer	fits/ will fit/ fit
+euro	euro/ euros
+hundrede	hundred/ a hundred
+kroner	kroner/ crowns
+koster	cost/ does cost/ do cost
+tusind	a thousand
+krone	crown/ DKK/ krone (currency)
+kun	only/ just
+agurker	cucumbers
+søde	sweet/ sweetie/ sweetheart
+tyve	twenty
+ti	ten
+kolde	cold
+tomater	tomatoes
+dage	days
+sokker	socks
+fem	five
+fire	four
+bukser	pants
+par	pair
+flere	more
+mænd	men/ husbands
+træer	trees
+ænder	ducks
+bøger	books
+katte	cats
+drenge	boys
+bjørne	bears
+heste	horses
+nogle	some
+hunde	dogs
+piger	girls
+to	two
+bananer	bananas
+tre	three
+kvinder	women
+æbler	apples
+hvide	white
+sok	sock
+grønne	green
+jakke	jacket
+taske	bag
+købe	to buy
+gode	nice/ good/ great
+trøje	sweatshirt
+dårlige	bad/ poor
+hat	hat
+sko	shoe
+tøj	clothes
+for	for/ do/ because
+røde	red
+ur	clock/ watch
+smykke	piece of jewelry
+billige	cheap
+dyre	expensive/ costly
+den	the/ the ... one/ that
+gerne	of course/ willingly/ happily
+t-shirt	t-shirt
+sorte	black
+have	to have
+vil	want/ do want to/ want to go
+sweater	sweater
+eftermiddag	afternoon
+dagen	the day
+altid	always
+aldrig	never
+sidste	last
+mandag	Monday
+nat	night
+denne	this
+næste	next
+komme	to come
+hverdag	weekday/ everyday/ a weekday
+onsdag	Wednesday
+fredag	Friday
+aftensmad	dinner
+snart	soon
+tage	to take
+ind	inside/ in/ into
+hver	every
+i morgen	tomorrow
+efter	after
+søndag	sunday
+lørdag	Saturday
+morgenmad	breakfast
+nu	now
+tid	time
+klar	ready
+i dag	today
+hvornår	when
+frokost	lunch
+spise	eat
+aftenen	the evening/ the night
+morgenen	the morning
+om	in/ about/ for
+film	movie
+ser	are looking/ looking/ are watching
+slik	candy
+hjælpe	helping/ are helping/ is helping
+tale	speak
+dig	you/ yourself
+spil	game
+kan	can
+dejlig	nice/ lovely
+aften	evening
+hyggelig	cozy
+morgen	morning
+hygge	enjoy
+fest	party
+mig	me/ myself
+hyggeligt	cosy/ cheerful/ homely
+smørrer	spreading/ am spreading/ are spreading
+brødet	the bread
+smager	do taste/ does taste/ tasting
+ost	cheese
+sur	sour/ angry/ smelly
+citron	lemon
+smør	butter
+kartoffel	potato
+svinekød	pork
+bager	is baking/ am baking/ bakes
+bolle	bun
+laver	make/ will make/ is making
+kødbolle	meatball
+svin	swine/ pig
+kold	cold
+honning	honey
+kaffen	the coffee
+vandet	the water
+vin	wine
+varm	hot/ warm/ heat
+mælk	milk
+gaffel	fork
+kød	meat
+oksekød	beef
+kødet	the meat
+kniv	knife
+bruger	use/ do use/ is using
+rød	red
+tomat	tomato
+tomaten	the tomato
+agurk	cucumber
+grøn	green
+agurken	the cucumber
+leger	play/ am playing/ are playing
+lillesøster	little sister
+lillebror	little brother
+baby	baby
+sød	cute
+storesøster	big sister
+storebror	big brother
+elsker	love/ loves
+farfar	paternal granddad/ a paternal granddad/ dad's dad
+tante	aunt
+kone	wife
+farmor	dad's mom/ paternal grandmother/ grandmom
+klaver	piano
+mormor	mom's mom/ maternal grandmother/ grandmom
+din	your/ yours
+morfar	mom's dad/ slang for "nap"/ maternal grandfather
+onkel	uncle
+ven	friend
+sjov	funny
+min	my
+taxa	taxi
+her	here
+hvilken	which
+by	city
+billet	ticket
+toget	the train
+kender	know/ do know/ knows
+bussen	the bus
+hurtigt	fast/ quickly
+hvem	who
+hvilket	which/ what
+skolen	the school
+tager	are going/ take/ going
+tog	train
+kører	does drive/ am riding/ drive
+cykler	bike/ bikes/ is biking
+bus	bus
+bilen	the car
+hen	(expresses a moderate distance)/ over
+skole	school
+i skole	to school
+kvinden	the woman
+de	they
+skoven	the forest
+løber	running/ are running/ is running
+vi	we
+manden	the man/ the husband
+sammen	together
+skov	forest
+med	on/ to/ because of
+musik	music
+guitar	guitar
+musikken	the music
+ingen	no one
+lytter	is listening/ are listening/ listen
+til	with/ regarding/ till
+danser	is dancing/ are dancing/ dances
+måske	maybe
+drengen	the boy
+nogen	someone
+amerikansk	American
+fodbold	football/ soccer
+spiller	play/ do play/ does play
+ikke	not
+noget	something
+skriver	writing/ am writing/ is writing
+pigen	the girl
+bil	car
+cykel	bike
+huset	the house
+bordet	the table
+ny	new
+sælger	sell/ is selling/ sells
+nyt	new/ new one
+på	on
+supermarkedet	the supermarket
+værelset	the room
+bjerget	the mountain
+toilettet	the toilet
+åben	open
+grøntsag	vegetable
+supermarked	supermarket
+butik	shop
+toiletpapir	toilet paper
+butikken	the shop/ the store
+lukket	closed
+frugt	fruit
+glasset	the glass
+æblet	the apple
+ægget	the egg
+køber	am buying/ buy/ is buying
+krabbe	crab
+elefant	elephant
+bjørn	bear
+ugle	owl
+sulten	hungry
+dyret	the animal
+hesten	the horse
+koen	the cow
+mus	mouse
+græs	grass
+ulv	wolf
+hest	horse
+dyr	animal
+brun	brown
+okse	ox
+ko	cow
+anden	second/ second of/ the duck
+møder	is meeting/ do meet/ will meet
+kyllingen	the chicken
+hvid	white
+fuglen	the bird
+fisk	fish
+sort	black
+katten	the cat
+kylling	chicken
+hunden	the dog
+and	duck
+fugl	bird
+vi ses	see you
+hjælp	help
+rasmus	Rasmus (male name)
+det var så lidt	you are welcome
+mad	food
+hvordan	how
+å	å/ aa (unofficial)
+har du det	are you feeling/ are you doing/ are you
+det	the/ the ... one/ that
+har det	has the/ are doing/ am doing
+dårligt	bad/ unwell/ poorly
+josefine	Josefine (female name)
+tur	trip/ turn/ walk
+hav en god	Have a good
+weekend	weekend
+dag	day
+okay	okay/ alright/ OK
+undskyld	sorry
+der	that/ who/ which
+toilet	toilet
+bord	table
+køkkenbord	kitchen table
+soveværelse	bedroom
+seng	bed
+træt	tired
+sover	sleep/ do sleep/ does sleep
+går	go/ does go/ am going
+sov godt	sleep well/ sleep tight
+køkken	kitchen
+godt	well/ fine/ alright
+lille	small
+hjem	home
+lejlighed	apartment
+avis	newspaper
+god	good
+brev	letter
+bog	book
+læser	is studying/ studies/ am reading
+brød	bread
+bacon	bacon
+æg	egg
+koldt	cold
+vand	water
+glas	glass
+kan lide	like/ likes
+pige	girl
+is	ice/ ice cream/ ice creams
+lækker	delicious
+pære	pear
+ung	young
+spiser	eat/ do eat/ does eat
+gul	yellow
+banan	banana
+dreng	boy
+æble	apple
+hotel	hotel
+dyrt	expensive
+værelse	room
+gammelt	old
+billigt	cheap
+pas	passport
+stort	great/ big/ large
+rødt	red
+det er	it is/ that is/ we have
+land	country
+træ	tree
+bjerg	mountain
+højt	aloud/ out loud/ tall
+se	watch/ see/ look
+grønt	green
+stor	big
+hund	dog
+høj	tall
+gammel	old
+kat	cat
+han	he
+lærer	teacher
+glad	happy
+mand	man
+hun	she/ her
+æ	æ/ ae (unofficial)
+klog	smart
+kvinde	woman
+læge	a doctor/ doctor
+øl	beer
+drikker	am drinking/ is drinking/ drink
+sodavand	soda
+nej	no
+pizza	pizza
+kage	cake
+sandwich	sandwich/ sandwiches
+stykke	piece
+værsgo	here you go/ there you go/ you are welcome
+kop	cup
+tak	thank you
+kaffe	coffee
+te	tea
+norsk	Norwegian
+taler	do speak/ speaks/ are talking
+engelsk	English
+tysk	German
+dansk	Danish
+Tyskland	Germany
+Sverige	Sweden
+eller	or
+England	England
+hvor	where
+bor	live/ does live/ is living
+i	in it/ to the/ inside
+fra	from
+kommer	get/ do come/ is
+Danmark	Denmark
+Norge	Norway
+hvad	what/ whatever/ how
+alfred	Alfred (male name)
+du hedder	your name is/ you are called
+frede	Frede (male name)
+hedvig	Hedvig (female name)
+hedder	is/ is called/ am called
+velkommen	welcome
+farvel	goodbye
+godnat	good night
+godmorgen	good morning
+hus	house
+et	an/ a/ one
+ro	row
+barn	child
+bror	brother
+ø	isle/ island
+datter	daughter
+søster	sister
+far	dad
+mor	mom
+har	has got/ have there/ are having
+en	an/ a/ someone
+søn	son
+ja	yes
+du	you/ your
+og	to/ and/ while
+hej	hello/ bye/ hi
+henrik	Henrik (male name)
+jeg	I
+er	have/ have been/ am
+ida	Ida (female name)
